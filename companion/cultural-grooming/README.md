@@ -134,22 +134,22 @@ Explicit norms reduce friction:
 
 ---
 
-## The 10 Principles in Practice
+## Team Principles in Practice
 
-Drawing from Burning Man culture for organizational health:
+Core principles for healthy team culture:
 
 | Principle | Organizational Application |
 |-----------|---------------------------|
-| **Radical Inclusion** | Everyone's voice matters |
-| **Gifting** | Help without expectation of return |
-| **Decommodification** | Not everything is transactional |
-| **Radical Self-reliance** | Own your development |
-| **Radical Self-expression** | Bring your whole self |
-| **Communal Effort** | Collaboration over competition |
-| **Civic Responsibility** | Care for the whole, not just your role |
-| **Leaving No Trace** | Clean up your messes |
+| **Inclusion** | Everyone's voice matters |
+| **Generosity** | Help without expectation of return |
+| **Value over Transaction** | Not everything is transactional |
+| **Ownership** | Own your development |
+| **Authenticity** | Bring your whole self |
+| **Collaboration** | Work together over working alone |
+| **Stewardship** | Care for the whole, not just your role |
+| **Clean Handoffs** | Clean up your messes |
 | **Participation** | No spectators; everyone contributes |
-| **Immediacy** | Be present; engage fully |
+| **Presence** | Be present; engage fully |
 
 ---
 

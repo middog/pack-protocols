@@ -46,9 +46,9 @@ intended_use: documentation, presentations
 dimensions: 800x600px
 style: line art, minimal, professional
 colors:
-  - "#F5A623" # Fuel/SDCoLab gold
-  - "#4A90D9" # Oxygen/SDCAP blue  
-  - "#D0021B" # Heat/Community red
+  - "#F5A623" # Fuel gold
+  - "#4A90D9" # Oxygen blue  
+  - "#D0021B" # Heat red
 elements:
   - triangle shape
   - labels at each vertex

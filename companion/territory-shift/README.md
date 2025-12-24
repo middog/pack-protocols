@@ -120,8 +120,8 @@ Busy doesn't mean progress. Track whether you're achieving the outcomes that jus
 │                                                                   │
 │ Vision      Coalition    Pilots       Expansion   Culture       │
 │ Strategy    Governance   Learning     Adoption    Continuous    │
-│ Burning     Resourcing   Iteration    Training    improvement   │
-│ platform    Comms plan   Quick wins   Support     Metrics       │
+│ Urgency     Resourcing   Iteration    Training    improvement   │
+│ case        Comms plan   Quick wins   Support     Metrics       │
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
 ```
@@ -166,7 +166,7 @@ The Companion isn't leading the transformation—that's executive work. But the 
 
 - **Kauffman Foundation** — Entrepreneurial ecosystem building (see REFERENCES.md)
 - **Kotter's 8-Step Model** — Change leadership framework
-- **Burning Man 10 Principles** — Especially Radical Self-Reliance and Communal Effort
+- **ADKAR Model** — Individual change framework
 
 ---
 

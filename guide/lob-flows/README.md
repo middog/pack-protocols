@@ -336,7 +336,7 @@ Go custom when:
 
 ## ERPNext Integration Notes
 
-*~for our SDCAP/CoLab context~*
+*~connecting your ERP to everything else~*
 
 ERPNext provides REST API for most operations:
 
@@ -355,8 +355,8 @@ response = requests.post(
 ```
 
 **Common integration points:**
-- Member management (from QGIV, registration)
-- Donation tracking (from payment processors)
+- Customer/member management
+- Payment and transaction tracking
 - Inventory sync (from POS, warehouse)
 - Project/task automation (from helpdesk)
 

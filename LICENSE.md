@@ -21,10 +21,3 @@ Full license: https://creativecommons.org/licenses/by-sa/4.0/
 Pack Protocols
 Created by mid.dog
 https://mid.dog
-
-Incorporates frameworks developed for/with:
-- San Diego Collaborative Arts Project (SDCAP)
-- SDCoLab
-
-Burning Man's 10 Principles are © Burning Man Project
-https://burningman.org/about/10-principles/

@@ -95,20 +95,19 @@ The best consultants are like good working dogs: attentive without being anxious
 
 Read more: [Philosophy](docs/PHILOSOPHY.md)
 
-### The 10 Principles
+### Guiding Principles
 
-Pack Protocols is informed by the [Burning Man 10 Principles](https://burningman.org/about/10-principles/):
+Pack Protocols is built on these operating principles:
 
-- **Radical Inclusion** — Every voice matters
-- **Gifting** — Help without expectation
-- **Decommodification** — Not everything is transactional
-- **Radical Self-reliance** — Build capacity, not dependency
-- **Radical Self-expression** — Authentic work
-- **Communal Effort** — Collaboration over competition
-- **Civic Responsibility** — Care for the whole system
-- **Leaving No Trace** — Clean transitions, good docs
-- **Participation** — No spectators
-- **Immediacy** — Be present
+- **Inclusion** — Every voice matters
+- **Generosity** — Help without expectation of return
+- **Capacity Building** — Build independence, not dependency
+- **Authenticity** — Bring your real self to the work
+- **Collaboration** — Together over solo
+- **Stewardship** — Care for the whole system
+- **Clean Handoffs** — Good transitions, good documentation
+- **Participation** — No spectators; everyone contributes
+- **Presence** — Be here now
 
 ---
 
@@ -184,11 +183,10 @@ See [LICENSE.md](LICENSE.md).
 
 ## Acknowledgments
 
-- **Burning Man Community** — For the 10 Principles
 - **Kauffman Foundation** — For entrepreneurship research
 - **NIST** — For security frameworks
 - **DORA** — For DevOps research
-- **San Diego Burning Man Community** — For being the original pack
+- **Open Source Community** — For collaboration models
 
 ---
 

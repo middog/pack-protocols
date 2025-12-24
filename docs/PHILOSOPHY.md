@@ -62,17 +62,17 @@ The three modes map to dog archetypes:
 
 ---
 
-## The CoLab/SDCAP Application
+## The Organizational Application
 
-Burning Man culture runs on **gifting** and **do-ocracy**. But gifts need logistics. Do-ocracy needs infrastructure.
+Organizations often fail not from lack of ideas, but from imbalanced elements:
 
-The Fire Triangle maps to the three San Diego entities:
+The Fire Triangle maps to organizational components:
 
-| Element | Entity | Role |
-|---------|--------|------|
-| FUEL | SDCoLab | Provides material resources |
-| OXYGEN | SDCAP | Enables flow and coordination |
-| HEAT | Community | Brings energy and participation |
+| Element | Organizational Need | Role |
+|---------|---------------------|------|
+| FUEL | Resources | Provides material capability |
+| OXYGEN | Process | Enables flow and coordination |
+| HEAT | People | Brings energy and participation |
 
 The failure mode isn't lack of ideas. It's:
 - Great ideas with no fuel (resources)
@@ -100,7 +100,7 @@ The value isn't in hoarding the framework. It's in being good at applying it.
 
 Improvisers know: "No" kills momentum. "Yes, and..." builds on it.
 
-When SDCAP/CoLab can't own something, the answer isn't "no." It's:
+When you can't own something, the answer isn't "no." It's:
 
 > "Yes, this is great, AND... here's how you can run it yourself."
 > "Yes, we'd love to support this, AND... here's what we can offer."

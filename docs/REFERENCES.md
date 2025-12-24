@@ -13,24 +13,22 @@ This document collects the foundational references, inspirations, and resources 
 
 ## Core Influences
 
-### Burning Man 10 Principles
+### Guiding Principles
 
-The philosophical foundation for community-oriented work.
-
-**Source:** [burningman.org/about/10-principles](https://burningman.org/about/10-principles/)
+The philosophical foundation for Pack Protocols' approach to organizational work:
 
 | Principle | Application to Pack Protocols |
 |-----------|------------------------------|
-| Radical Inclusion | Everyone's voice matters in organizational change |
-| Gifting | Help without expectation of return |
-| Decommodification | Not everything is transactional |
-| Radical Self-reliance | Build capacity, not dependency |
-| Radical Self-expression | Bring authentic self to work |
-| Communal Effort | Collaboration over competition |
-| Civic Responsibility | Care for the whole system |
-| Leaving No Trace | Clean transitions, good documentation |
+| Inclusion | Everyone's voice matters in organizational change |
+| Generosity | Help without expectation of return |
+| Value over Transaction | Not everything needs a quid pro quo |
+| Capacity Building | Build independence, not dependency |
+| Authenticity | Bring your real self to work |
+| Collaboration | Work together over working alone |
+| Stewardship | Care for the whole system |
+| Clean Handoffs | Good transitions, good documentation |
 | Participation | No spectators; everyone contributes |
-| Immediacy | Be present; engage fully |
+| Presence | Be here; engage fully |
 
 ### Kauffman Foundation
 
@@ -209,11 +207,6 @@ Best practices for maintaining open source projects.
 ---
 
 ## Community Connections
-
-### San Diego Burning Man Community
-
-- **SDCAP** — San Diego Collaborative Arts Project (501c3)
-- **SDCoLab** — Community maker space
 
 ### mid.dog
 
