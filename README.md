@@ -4,7 +4,7 @@
 
 This repo contains thinking tools, engagement patterns, and project templates for:
 - **mid.dog** — Fractional tech leadership (FIDO) consulting
-- **SDCoLab / SDCAP** — Burning Man regional community infrastructure
+- **SDCoLab / SDCAP** — Suggested Regional community infrastructure for my favorite 10 Principles organization!
 - **Any pack** trying to move together without burning out
 
 ---
