@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://mid.dog/schemas/pack-dynamics.json",
+  "title": "Pack Dynamics Assessment",
+  "description": "Schema for assessing organizational state using the Pack Dynamics framework",
+  "type": "object",
+  "required": ["assessment_id", "organization", "date", "pack_state"],
+  "properties": {
+    "assessment_id": {
+      "type": "string",
+      "description": "Unique identifier for this assessment"
+    },
+    "organization": {
+      "type": "string",
+      "description": "Organization or team being assessed"
+    },
+    "assessor": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "pack_state": {
+      "type": "string",
+      "enum": ["running_well", "running_wild", "running_with_friction", "stuck"],
+      "description": "Overall pack state: green=running_well, yellow=running_wild, red=running_with_friction, black=stuck"
+    },
+    "state_indicators": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Specific observations supporting state assessment"
+    },
+    "scent_trails": {
+      "type": "object",
+      "description": "Informal information flows",
+      "properties": {
+        "actual_work_flow": { "type": "string" },
+        "go_to_people": { "type": "array", "items": { "type": "string" } },
+        "informal_channels": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "pack_positions": {
+      "type": "array",
+      "description": "Key players and their roles",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "formal_role": { "type": "string" },
+          "archetype": {
+            "type": "string",
+            "enum": ["alpha_formal", "alpha_informal", "scout", "guardian", "connector", "skeptic", "quiet_carrier"]
+          },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "energy_patterns": {
+      "type": "object",
+      "properties": {
+        "energy_sources": { "type": "array", "items": { "type": "string" } },
+        "energy_drains": { "type": "array", "items": { "type": "string" } },
+        "light_up_moments": { "type": "array", "items": { "type": "string" } },
+        "shut_down_triggers": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "territory": {
+      "type": "object",
+      "properties": {
+        "clear_ownership": { "type": "array", "items": { "type": "string" } },
+        "contested_zones": { "type": "array", "items": { "type": "string" } },
+        "no_mans_land": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "resistance_patterns": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": { 
+            "type": "string", 
+            "enum": ["silence", "cynicism", "busyness", "we_tried_that", "false_enthusiasm"]
+          },
+          "signal": { "type": "string" },
+          "response": { "type": "string" }
+        }
+      }
+    },
+    "recommended_approach": {
+      "type": "string",
+      "description": "Suggested intervention approach based on state"
+    },
+    "quick_wins": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Immediate opportunities"
+    },
+    "deeper_issues": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Issues requiring longer-term attention"
+    }
+  }
+}

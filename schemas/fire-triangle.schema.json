@@ -1,0 +1,133 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://mid.dog/schemas/fire-triangle.json",
+  "title": "Fire Triangle Assessment",
+  "description": "Schema for assessing organizational momentum using the Fire Triangle framework (Fuel + Oxygen + Heat = Fire)",
+  "type": "object",
+  "required": ["assessment_id", "organization", "date", "fuel", "oxygen", "heat"],
+  "properties": {
+    "assessment_id": {
+      "type": "string",
+      "description": "Unique identifier for this assessment"
+    },
+    "organization": {
+      "type": "string",
+      "description": "Organization or project being assessed"
+    },
+    "assessor": {
+      "type": "string",
+      "description": "Person conducting the assessment"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Date of assessment"
+    },
+    "fuel": {
+      "type": "object",
+      "description": "Material resources - physical stuff, banked attention, infrastructure",
+      "required": ["score", "observations"],
+      "properties": {
+        "score": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5,
+          "description": "1=Missing, 2=Inadequate, 3=Sufficient, 4=Strong, 5=Abundant"
+        },
+        "observations": {
+          "type": "string",
+          "description": "What fuel exists and what's missing"
+        },
+        "resources": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of available resources"
+        },
+        "gaps": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of missing resources"
+        }
+      }
+    },
+    "oxygen": {
+      "type": "object",
+      "description": "Enablement & flow - logistics, information, process, clearing",
+      "required": ["score", "observations"],
+      "properties": {
+        "score": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5,
+          "description": "1=Blocked, 2=Restricted, 3=Adequate, 4=Flowing, 5=Optimized"
+        },
+        "observations": {
+          "type": "string",
+          "description": "How enablement works and where it's blocked"
+        },
+        "blockers": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Current blockers to flow"
+        },
+        "enablers": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "What's working to enable flow"
+        }
+      }
+    },
+    "heat": {
+      "type": "object",
+      "description": "Energy & ignition - money, time, passion, participation",
+      "required": ["score", "observations"],
+      "properties": {
+        "score": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5,
+          "description": "1=Cold, 2=Lukewarm, 3=Warm, 4=Hot, 5=Blazing"
+        },
+        "observations": {
+          "type": "string",
+          "description": "Energy levels and participation"
+        },
+        "energy_sources": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Where energy comes from"
+        },
+        "energy_drains": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "What's depleting energy"
+        }
+      }
+    },
+    "fire_state": {
+      "type": "string",
+      "enum": ["smoking", "smoldering", "burning", "blazing", "out"],
+      "description": "Overall momentum state"
+    },
+    "primary_gap": {
+      "type": "string",
+      "enum": ["fuel", "oxygen", "heat", "balanced"],
+      "description": "Which element most needs attention"
+    },
+    "recommendations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "element": { "type": "string", "enum": ["fuel", "oxygen", "heat"] },
+          "action": { "type": "string" },
+          "priority": { "type": "string", "enum": ["high", "medium", "low"] }
+        }
+      }
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional observations"
+    }
+  }
+}

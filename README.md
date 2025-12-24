@@ -1,98 +1,197 @@
+---
+title: Pack Protocols
+version: 2.0.0
+repository: https://github.com/mid-dog/pack-protocols
+license: CC-BY-SA-4.0
+tags:
+  - fido
+  - consulting
+  - governance
+  - frameworks
+---
+
 # 🐕 Pack Protocols
 
-**Open frameworks for making fire with your pack.**
+**Organizational rituals shaped for real flow.**
 
-This repo contains thinking tools, engagement patterns, and project templates for:
-- **mid.dog** — Fractional tech leadership (FIDO) consulting
-- **SDCoLab / SDCAP** — Suggested Regional community infrastructure for my favorite 10 Principles organization!
-- **Any pack** trying to move together without burning out
+*~approaches with quiet confidence, tail steady, ready to work~* 🐾
 
----
-
-## The Core Insight
-
-Every organization is a living pack.
-
-Some run well. Some run wild. Most run with friction they barely recognize.
-
-These protocols help you **sense the friction**, **name it clearly**, and **design flows that breathe**.
+Pack Protocols is a collection of frameworks, templates, and practices for technology consulting and organizational development. Built for the [mid.dog](https://mid.dog) FIDO (Fractional Information & Digital Officer) practice, but useful for anyone doing transformation work.
 
 ---
 
-## What's Here
+## The Three Heads of Cerberus
 
-### `/frameworks`
-Thinking tools that apply across contexts:
+```
+                    🐕‍🦺
+                 COMPANION
+                (Transform)
+                    /\
+                   /  \
+                  /    \
+                 /  🔥  \
+                /________\
+           🐕              🦮
+       SHEPHERD          GUIDE
+        (vCIO)           (vCTO)
+```
+
+| Head | Role | Focus |
+|------|------|-------|
+| **[Shepherd](shepherd/)** | vCIO | Security, compliance, infrastructure hygiene |
+| **[Guide](guide/)** | vCTO | Delivery, CI/CD, architecture |
+| **[Companion](companion/)** | Change Agent | Adoption, transformation, culture |
+
+Each head guards a different aspect of organizational health. Together, they protect the whole.
+
+---
+
+## Core Frameworks
 
 | Framework | What It Does |
 |-----------|--------------|
-| [Fire Triangle](frameworks/fire-triangle/) | Resources + Enablement + Energy → Momentum |
-| [Pack Dynamics](frameworks/pack-dynamics/) | How groups actually move (or don't) |
-| [Growth Path](frameworks/growth-path/) | Project → Party → Practice maturation |
+| **[Fire Triangle](frameworks/fire-triangle/)** | Diagnoses organizational momentum: Fuel + Oxygen + Heat = Fire |
+| **[Pack Dynamics](frameworks/pack-dynamics/)** | Reads group state: Running Well → Running Wild → Friction → Stuck |
+| **[Growth Path](frameworks/growth-path/)** | Tracks initiative maturity: Project → Party → Practice |
 
-### `/templates`
-Ready-to-use structures:
+---
 
-| Template | Context |
-|----------|---------|
-| [mid.dog Project](templates/mid-dog/) | FIDO engagement scoping |
-| [CoLab Engagement](templates/colab/) | Community project proposals |
+## Quick Navigation
 
-### `/docs`
-Extended thinking and background.
+### By Role
+
+**I'm doing vCIO/Security work:**
+→ [Shepherd](shepherd/) — Scent Trails, Den Security, Territory Watch, Pack Compliance
+
+**I'm doing vCTO/Delivery work:**
+→ [Guide](guide/) — Trail Blazing, Pack Compute, LoB Flows
+
+**I'm doing Change/Transformation work:**
+→ [Companion](companion/) — Pack Adoption, Territory Shift, Cultural Grooming
+
+**I'm running a consultancy:**
+→ [Operations](operations/) — Engagement Lifecycle, Practice Management, Growth Patterns
+
+### By Need
+
+| I need to... | Go here |
+|--------------|---------|
+| Assess organizational health | [Fire Triangle](frameworks/fire-triangle/) |
+| Read team dynamics | [Pack Dynamics](frameworks/pack-dynamics/) |
+| Plan a discovery session | [DISCOVERY.md](templates/mid-dog/DISCOVERY.md) |
+| Scope a project | [PROJECT.md](templates/mid-dog/PROJECT.md) |
+| Understand NIST compliance | [Pack Compliance](shepherd/pack-compliance/) |
+| Set up CI/CD | [Trail Blazing](guide/trail-blazing/) |
+| Plan technology adoption | [Pack Adoption](companion/pack-adoption/) |
+| Price an engagement | [Engagement Lifecycle](operations/engagement-lifecycle/) |
 
 ---
 
 ## Philosophy
 
-### 🔥 Make Fire, Not Heat
+> **Advisory with presence, not ego.**
 
-Heat without direction is just friction.
-Fire requires **fuel** (resources), **oxygen** (enablement), and **heat** (energy) in balance.
+The best consultants are like good working dogs: attentive without being anxious, helpful without being performative, present without needing to be the center of attention.
 
-### 🐕 Sense Before You Herd
+Read more: [Philosophy](docs/PHILOSOPHY.md)
 
-Dogs don't manage—they sense and respond.
-Good leadership reads the pack before issuing commands.
+### The 10 Principles
 
-### 🌀 Grow the Spiral
+Pack Protocols is informed by the [Burning Man 10 Principles](https://burningman.org/about/10-principles/):
 
-Start small. Prove it works. Let it expand.
-Project → Party → Practice.
-
----
-
-## Using These Protocols
-
-**For Consulting (mid.dog style):**
-1. Use [Pack Dynamics](frameworks/pack-dynamics/) to assess current state
-2. Apply [Fire Triangle](frameworks/fire-triangle/) to identify what's missing
-3. Scope with [FIDO template](templates/mid-dog/)
-
-**For Community Projects (CoLab style):**
-1. Start with [Growth Path](frameworks/growth-path/) to right-size ambition
-2. Map resources with [Fire Triangle](frameworks/fire-triangle/)
-3. Propose with [CoLab template](templates/colab/)
+- **Radical Inclusion** — Every voice matters
+- **Gifting** — Help without expectation
+- **Decommodification** — Not everything is transactional
+- **Radical Self-reliance** — Build capacity, not dependency
+- **Radical Self-expression** — Authentic work
+- **Communal Effort** — Collaboration over competition
+- **Civic Responsibility** — Care for the whole system
+- **Leaving No Trace** — Clean transitions, good docs
+- **Participation** — No spectators
+- **Immediacy** — Be present
 
 ---
 
-## The Doggo Ethos
+## Repository Structure
 
-> *"Please state the nature of the dog-related emergency."*
+```
+pack-protocols/
+├── README.md                 # You are here
+├── shepherd/                 # vCIO operations
+│   ├── scent-trails/         # Asset discovery
+│   ├── den-security/         # Workstation hardening
+│   ├── territory-watch/      # Monitoring
+│   └── pack-compliance/      # NIST frameworks
+├── guide/                    # vCTO operations
+│   ├── trail-blazing/        # CI/CD pipelines
+│   ├── pack-compute/         # HPC & batch
+│   └── lob-flows/            # Business integrations
+├── companion/                # Change agent operations
+│   ├── pack-adoption/        # Technology adoption
+│   ├── territory-shift/      # Digital transformation
+│   └── cultural-grooming/    # Team health
+├── operations/               # Consultancy operations
+│   ├── engagement-lifecycle/ # Client relationships
+│   ├── practice-management/  # Running the business
+│   └── growth-patterns/      # Scaling decisions
+├── frameworks/               # Core frameworks
+│   ├── fire-triangle/
+│   ├── pack-dynamics/
+│   └── growth-path/
+├── templates/                # Reusable templates
+│   └── mid-dog/              # FIDO engagement templates
+├── schemas/                  # JSON schemas for automation
+├── art-rfps/                 # Visual asset pipeline
+└── docs/                     # Additional documentation
+    ├── PHILOSOPHY.md
+    └── REFERENCES.md
+```
 
-These aren't frameworks for control. They're for:
-- **Shepherding** — Guide without dominating
-- **Guiding** — Show the path, don't drag
-- **Companioning** — Be present, not performative
+---
 
-We range to the call. We don't manufacture crises.
+## For Machines
+
+Pack Protocols is designed for programmatic consumption:
+
+- **YAML frontmatter** on all markdown files
+- **JSON schemas** in [/schemas](schemas/)
+- **Consistent heading structure** for parsing
+- **Machine-readable workflow definitions**
+
+See [Schemas README](schemas/) for details.
+
+---
+
+## Contributing
+
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+**Good first contributions:**
+- Fix typos or unclear language
+- Add examples from your practice
+- Improve templates
+- Suggest new frameworks
 
 ---
 
 ## License
 
-CC BY-SA 4.0 — Use freely, share alike.
+**CC BY-SA 4.0** — Share and adapt with attribution.
+
+See [LICENSE.md](LICENSE.md).
 
 ---
 
-*Woof.* 🐕‍🦺
+## Acknowledgments
+
+- **Burning Man Community** — For the 10 Principles
+- **Kauffman Foundation** — For entrepreneurship research
+- **NIST** — For security frameworks
+- **DORA** — For DevOps research
+- **San Diego Burning Man Community** — For being the original pack
+
+---
+
+*~settles into watchful rest, ready when needed~*
+
+**The pack runs together.** 🐕🔥
