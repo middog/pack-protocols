@@ -1,141 +1,85 @@
-# 📖 The Doggo Philosophy
+---
+title: Philosophy
+version: 2.0.0
+---
 
-**Why dogs? Why fire? Why any of this?**
+# Philosophy
+
+**Why dogs. Why fire. Why any of this.**
 
 ---
 
-## The Dog Metaphor
+## The Dog
 
-> *"Please state the nature of the dog-related emergency."*
+Dogs don't manage. They sense and respond.
 
-Dogs don't manage. Dogs don't command. Dogs **sense and respond**.
+The best working dogs — shepherds, guides, companions — share the same traits:
 
-The best working dogs—shepherds, guides, companions—share traits that make them effective:
+**They read the pack.** Before acting, they observe. They sense tension, energy, direction. They know where the friction is before anyone names it.
 
-### They Read the Pack
-Before acting, they observe. They sense tension, energy, direction. They know where the friction is before anyone says anything.
+**They guide without force.** A good sheepdog doesn't push from behind. It positions itself to redirect movement. Presence, not aggression.
 
-### They Guide Without Force
-A good sheepdog doesn't push from behind. It positions itself to redirect movement. It uses presence, not aggression.
+**They're present without ego.** A guide dog doesn't need credit. A companion dog doesn't need to be the hero. Function over performance.
 
-### They're Present Without Ego
-A guide dog doesn't need credit. A companion dog doesn't need to be the hero. They're there to serve function, not to perform.
+**They range to the call.** They don't manufacture emergencies. They respond when needed and rest when not.
 
-### They Range to the Call
-They don't manufacture emergencies. They respond when needed and rest when not.
+This is the disposition these protocols are built from.
 
 ---
 
-## The Fire Metaphor
+## The Fire
 
 Fire is not heat.
 
-**Heat** is energy without direction. Friction. Burnout. Activity that goes nowhere.
+Heat is energy without direction. Friction. Activity that goes nowhere.
 
-**Fire** is heat *combined* with fuel and oxygen in the right proportion. It's directed energy that creates light and warmth.
+Fire is heat combined with fuel and oxygen in the right proportion. Directed energy. Light and warmth.
 
-Most organizational dysfunction is **heat without fire**:
+Most organizational dysfunction is heat without fire:
 - Lots of meetings, no decisions
-- Lots of activity, no outcomes
 - Lots of passion, no infrastructure to channel it
+- Lots of activity, no outcomes
 
-The goal isn't to create more energy. It's to create the conditions for combustion.
+The question is never how to generate more energy. It's which element is thin. Diagnose first. Prescribe second.
 
 ---
 
-## The mid.dog Application
-
-**FIDO = Fractional Information & Digital Officer**
-
-The pun is intentional. A FIDO is:
-- **Fractional** — You don't need a full-time dog. You need the right dog for the right moment.
-- **Faithful** — Loyal to your success, not to their continued engagement.
-- **Functional** — Focused on outcomes, not on looking busy.
-
-The three modes map to dog archetypes:
+## The Three Modes
 
 | Mode | Archetype | Focus |
 |------|-----------|-------|
-| Shepherd (vCIO) | Border Collie | Infrastructure—systems that sense and move |
-| Guide (vCTO) | Seeing Eye Dog | Delivery—clear paths through complexity |
-| Companion (DX) | Therapy Dog | People—presence without performance |
+| Shepherd (vCIO) | Border Collie | Infrastructure — systems that sense and move |
+| Guide (vCTO) | Seeing Eye Dog | Delivery — clear paths through complexity |
+| Companion (Transform) | Therapy Dog | People — presence without performance |
+
+Most engagements blend modes. The heads are diagnostic, not prescriptive.
 
 ---
 
-## The Organizational Application
+## Yes, And
 
-Organizations often fail not from lack of ideas, but from imbalanced elements:
+When someone brings something that doesn't fit your lane, the answer isn't "no." It's:
 
-The Fire Triangle maps to organizational components:
+> "Yes, this matters — and here's what it would take."
 
-| Element | Organizational Need | Role |
-|---------|---------------------|------|
-| FUEL | Resources | Provides material capability |
-| OXYGEN | Process | Enables flow and coordination |
-| HEAT | People | Brings energy and participation |
+Then help them find the fuel (who has resources), the oxygen (who can enable it), and the heat (who will actually show up).
 
-The failure mode isn't lack of ideas. It's:
-- Great ideas with no fuel (resources)
-- Great resources with no oxygen (coordination)
-- Great coordination with no heat (participation)
-
-The frameworks help diagnose which element is missing.
+"No" kills momentum. "Yes, and" tells the truth while keeping things moving.
 
 ---
 
-## Why Open Source This?
+## Why Open Source
 
-> *"We are what, and how, we eat! Our knowledge and information apparatus is how we tell our story, to ourselves, as we live it. We mustn't compromise on or outsource our Story."*
+> *"We are what, and how, we eat. Our knowledge apparatus is how we tell our story, to ourselves, as we live it. We mustn't outsource our Story."*
 
-These are thinking tools, not proprietary methods. They work better when:
-- More people use them
-- More people improve them
-- They become shared language
-
-The value isn't in hoarding the framework. It's in being good at applying it.
+These are thinking tools, not proprietary methods. They work better when more people use them, improve them, and make them shared language. The value isn't in hoarding the framework. It's in being good at applying it.
 
 ---
 
-## The "Yes... And!" Principle
+## What These Protocols Are
 
-Improvisers know: "No" kills momentum. "Yes, and..." builds on it.
+A protocol is a set of rules for exchange — a shared understanding of how things work.
 
-When you can't own something, the answer isn't "no." It's:
-
-> "Yes, this is great, AND... here's how you can run it yourself."
-> "Yes, we'd love to support this, AND... here's what we can offer."
-> "Yes, this matters, AND... it's not the right fit for us to own."
-
-This keeps momentum alive while maintaining boundaries.
-
----
-
-## The Pack Protocols Name
-
-A **protocol** is:
-- A set of rules for exchange
-- A way of communicating
-- A shared understanding of how things work
-
-**Pack Protocols** are:
-- Shared frameworks for how groups move
-- Common language for diagnosing friction
-- Agreed patterns for proposing and running initiatives
+Pack Protocols are shared frameworks for how groups move, common language for diagnosing friction, and agreed patterns for proposing and running initiatives.
 
 They're not rules to follow. They're tools to apply.
-
----
-
-## On Being "Doggier"
-
-The prompt was to make things "sharper and better and doggier."
-
-**Sharper** = Clear distinctions, not mush. Either/or where appropriate. Specific, not vague.
-
-**Better** = Actually useful. Testable. Improvable. Not just clever.
-
-**Doggier** = Warm but not soft. Loyal but not sycophantic. Present but not needy. Useful but not performative.
-
----
-
-*Woof.* 🐕‍🦺🐩🦮

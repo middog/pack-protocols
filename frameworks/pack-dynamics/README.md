@@ -1,6 +1,6 @@
-# 🐕 Pack Dynamics
+# Pack Dynamics
 
-**How groups actually move—or don't.**
+**How groups actually move — or don't.**
 
 A framework for sensing organizational state before trying to change it.
 
@@ -201,4 +201,4 @@ Use these in discovery:
 
 ---
 
-*"Every pack has its own rhythm. Sense it before you try to change it."* 🐕
+*"Every pack has its own rhythm. Sense it before you try to change it."*

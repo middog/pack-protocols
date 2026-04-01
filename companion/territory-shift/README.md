@@ -13,7 +13,6 @@ tags:
 
 **Digital Transformation Patterns**
 
-*~surveying new territory, helping the pack relocate~* 🐕
 
 Territory Shift is about the big moves—not just adopting a new tool, but fundamentally changing how the organization works. Moving from paper to digital. From on-prem to cloud. From waterfall to agile. From office to hybrid.
 
@@ -158,7 +157,6 @@ The Companion isn't leading the transformation—that's executive work. But the 
 - **Celebrates** progress, acknowledges difficulty
 - **Warns** when pace is unsustainable
 
-*~the steady heartbeat in the chaos~* 💛
 
 ---
 
@@ -170,7 +168,6 @@ The Companion isn't leading the transformation—that's executive work. But the 
 
 ---
 
-*~standing at the edge of new territory, helping the pack see the path~*
 
 **Territory Shift is the biggest change work.** Not one tool, but the whole way of being. Handle with care, patience, and unflinching honesty.
 

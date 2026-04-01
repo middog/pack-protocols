@@ -23,7 +23,6 @@ workflow_states:
 
 **Asset Discovery & Inventory**
 
-*~nose to the ground, methodically working the grid~* 🐕
 
 You can't protect what you don't know exists. The Shepherd's first job is to sniff out every device, every service, every shadow IT deployment hiding in the tall grass. This is your Scent Trails practice.
 
@@ -111,7 +110,6 @@ Asset discovery isn't just about security—it's about understanding how your pa
 ## Discovery Methods
 
 ### Passive Discovery
-*~listening with ears perked, not disturbing the environment~*
 
 - **Network traffic analysis** — Watch flows to identify communicating devices
 - **DHCP/DNS logs** — See what's requesting addresses and names
@@ -122,7 +120,6 @@ Asset discovery isn't just about security—it's about understanding how your pa
 **Cons:** Only sees active devices, may miss segmented systems
 
 ### Active Discovery
-*~actively sniffing, poking noses into corners~*
 
 - **Network scanning** — Nmap, Nessus, Qualys discovery scans
 - **Agent-based inventory** — Intune, Tanium, SCCM
@@ -133,7 +130,6 @@ Asset discovery isn't just about security—it's about understanding how your pa
 **Cons:** Can trigger alerts, may disrupt sensitive systems
 
 ### Human Discovery
-*~asking the pack where things are buried~* 🦴
 
 - **Interviews** — "What tools does your team actually use?"
 - **Expense reports** — What's being paid for outside IT?
@@ -192,7 +188,7 @@ Once discovered, every asset needs classification for appropriate protection:
 
 ## Shadow IT: Reading the Real Scent Trail
 
-Shadow IT isn't necessarily bad—it's signal. *~perks ears with interest~*
+Shadow IT isn't necessarily bad—it's signal.
 
 When you find unsanctioned tools, ask:
 
@@ -314,8 +310,7 @@ Waiting until you have 100% coverage before taking action. Start with what you f
 
 ---
 
-*~lifts head, satisfied~*
 
 **Know your territory.** Every device, every service, every identity. Not because you're paranoid—because you care for the pack.
 
-*The scent doesn't lie.* 🐾
+*The scent doesn't lie.*

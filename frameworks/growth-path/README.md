@@ -1,4 +1,4 @@
-# 🌀 Growth Path
+# Growth Path
 
 **Project → Party → Practice**
 
@@ -240,4 +240,4 @@ Institutions that outlive their purpose.
 
 ---
 
-*"Start small. Prove it works. Let it expand."* 🌀
+*"Start small. Prove it works. Let it expand."*

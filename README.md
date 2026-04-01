@@ -10,11 +10,9 @@ tags:
   - frameworks
 ---
 
-# 🐕 Pack Protocols
+# Pack Protocols
 
-**Organizational rituals shaped for real flow.**
-
-*~approaches with quiet confidence, tail steady, ready to work~* 🐾
+**Organizational frameworks shaped for real flow.**
 
 Pack Protocols is a collection of frameworks, templates, and practices for technology consulting and organizational development. Built for the [mid.dog](https://mid.dog) FIDO (Fractional Information & Digital Officer) practice, but useful for anyone doing transformation work.
 
@@ -78,6 +76,7 @@ Each head guards a different aspect of organizational health. Together, they pro
 |--------------|---------|
 | Assess organizational health | [Fire Triangle](frameworks/fire-triangle/) |
 | Read team dynamics | [Pack Dynamics](frameworks/pack-dynamics/) |
+| See the framework applied | [Field Notes](field-notes/) |
 | Plan a discovery session | [DISCOVERY.md](templates/mid-dog/DISCOVERY.md) |
 | Scope a project | [PROJECT.md](templates/mid-dog/PROJECT.md) |
 | Understand NIST compliance | [Pack Compliance](shepherd/pack-compliance/) |
@@ -97,17 +96,9 @@ Read more: [Philosophy](docs/PHILOSOPHY.md)
 
 ### Guiding Principles
 
-Pack Protocols is built on these operating principles:
+Capacity building over dependency. Clean handoffs. No spectators. Sense before you act.
 
-- **Inclusion** — Every voice matters
-- **Generosity** — Help without expectation of return
-- **Capacity Building** — Build independence, not dependency
-- **Authenticity** — Bring your real self to the work
-- **Collaboration** — Together over solo
-- **Stewardship** — Care for the whole system
-- **Clean Handoffs** — Good transitions, good documentation
-- **Participation** — No spectators; everyone contributes
-- **Presence** — Be here now
+See [Philosophy](docs/PHILOSOPHY.md) for the full grounding.
 
 ---
 
@@ -139,6 +130,7 @@ pack-protocols/
 │   └── growth-path/
 ├── templates/                # Reusable templates
 │   └── mid-dog/              # FIDO engagement templates
+├── field-notes/              # Fire triangle in practice
 ├── schemas/                  # JSON schemas for automation
 ├── art-rfps/                 # Visual asset pipeline
 └── docs/                     # Additional documentation
@@ -189,7 +181,5 @@ See [LICENSE.md](LICENSE.md).
 - **Open Source Community** — For collaboration models
 
 ---
-
-*~settles into watchful rest, ready when needed~*
 
 **The pack runs together.** 🐕🔥

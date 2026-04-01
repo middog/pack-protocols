@@ -13,7 +13,6 @@ tags:
 
 **Visual Asset Pipeline: From AI Placeholder to Human Art**
 
-*~collaborating with the creative pack~* 🐕🎨
 
 This directory manages visual assets for Pack Protocols, including a system for generating AI placeholder art and commissioning human artists to create polished final versions.
 
@@ -194,4 +193,3 @@ All commissioned artwork for Pack Protocols is licensed **CC BY-SA 4.0** unless 
 
 ---
 
-*~creating beauty together~* 🎨🐕

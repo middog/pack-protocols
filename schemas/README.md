@@ -12,7 +12,6 @@ tags:
 
 **Machine-Readable Framework Definitions**
 
-*~organizing for the robot pack members~* 🤖🐕
 
 This directory contains JSON Schema definitions for key Pack Protocol frameworks. These enable:
 
@@ -92,4 +91,3 @@ Planned additions:
 
 ---
 
-*~structured data for structured thinking~* 📐🐕

@@ -14,7 +14,6 @@ tags:
 
 **Line-of-Business Automation & Integration**
 
-*~weaving between the pack, ensuring everyone stays connected~* 🦮
 
 LoB Flows is about making business systems talk to each other. CRM to ERP. HRIS to IT provisioning. Forms to workflows to notifications. The boring plumbing that makes organizations actually function.
 
@@ -63,7 +62,6 @@ Modern organizations have dozens of systems that need to communicate:
 
 ### Pattern 1: Point-to-Point
 
-*~direct path between two points~*
 
 ```
 ┌─────────┐          ┌─────────┐
@@ -84,7 +82,6 @@ Modern organizations have dozens of systems that need to communicate:
 
 ### Pattern 2: Hub-and-Spoke (iPaaS)
 
-*~all paths through the center~*
 
 ```
                     ┌─────────┐
@@ -117,7 +114,6 @@ Modern organizations have dozens of systems that need to communicate:
 
 ### Pattern 3: Event-Driven
 
-*~listen and respond~*
 
 ```
 ┌─────────┐     ┌──────────────┐     ┌─────────┐
@@ -141,7 +137,6 @@ Modern organizations have dozens of systems that need to communicate:
 
 ### Pattern 4: API Gateway
 
-*~controlled access point~*
 
 ```
 ┌─────────┐     ┌──────────────┐     ┌─────────┐
@@ -167,7 +162,6 @@ Modern organizations have dozens of systems that need to communicate:
 
 ### Employee Onboarding
 
-*~welcoming new pack members~* 🐕
 
 ```
 ┌────────────┐     ┌────────────┐     ┌────────────┐
@@ -323,7 +317,6 @@ For simple automations, sometimes visual tools beat custom code:
 
 ### When to Code Instead
 
-*~sometimes you just need to dig manually~*
 
 Go custom when:
 - Complex business logic
@@ -336,7 +329,6 @@ Go custom when:
 
 ## ERPNext Integration Notes
 
-*~connecting your ERP to everything else~*
 
 ERPNext provides REST API for most operations:
 
@@ -423,7 +415,6 @@ One giant workflow doing everything. Break into smaller, composable pieces.
 
 ---
 
-*~trotting between systems, keeping the connections strong~*
 
 **LoB Flows are the nervous system of your organization.** When they work, everything just... works. When they break, everyone feels it.
 

@@ -14,7 +14,6 @@ tags:
 
 **Change Management & Team Dynamics**
 
-*~gentle brushing, working out the tangles with care~* 🐕
 
 Cultural Grooming is the ongoing care work that keeps teams healthy through change. Catching the tangles before they become mats. Noticing when someone's withdrawn. Creating space for honest conversation.
 
@@ -51,7 +50,6 @@ Cultural Grooming is the ongoing care work that keeps teams healthy through chan
 - "That's not my job"
 - Heroes required for normal operations
 
-*~tilts head, sensing the pack's mood~* 🐕
 
 ---
 
@@ -114,7 +112,6 @@ Regular reflection builds improvement muscle:
 
 ### One-on-Ones
 
-*~sitting with one pack member at a time~*
 
 - Weekly or bi-weekly
 - Their agenda, not yours
@@ -205,7 +202,6 @@ Celebrating overwork. "Sarah worked all weekend!" signals unhealthy norms.
 
 ---
 
-*~settling into gentle grooming, patient and thorough~*
 
 **Cultural Grooming is the daily care.** Not dramatic interventions, but consistent attention. The pack stays healthy through regular tending.
 

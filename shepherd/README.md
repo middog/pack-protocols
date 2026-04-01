@@ -14,13 +14,11 @@ tags:
   - asset-management
 ---
 
-# 🐕‍🦺 Shepherd Operations
+# Shepherd Operations
 
 **Infrastructure that senses itself and moves cleanly.**
 
-*~ears up, scanning the perimeter, nose twitching~* 🐾
-
-The Shepherd watches over the whole territory. Not anxiously—attentively. Knowing where every device lives, what vulnerabilities lurk, which configurations have drifted, and when something doesn't smell right.
+The Shepherd watches over the whole territory — not anxiously, attentively. Knowing where every device lives, what vulnerabilities lurk, which configurations have drifted, and when something doesn't look right.
 
 ---
 
@@ -63,8 +61,6 @@ The Shepherd head of your FIDO work has a particular character:
 **Protective without possessive.** The territory isn't yours—it belongs to the pack. You're watching over it on their behalf. When you find a vulnerability, you're not proving your worth—you're serving theirs.
 
 **Patient but persistent.** Security hygiene is a slow game. Configurations drift. Patches get delayed. Shadow IT appears. The Shepherd doesn't give up; it keeps herding, gently, persistently, knowing that consistent pressure produces better results than dramatic interventions.
-
-*~slow tail wag, settling into watchful rest~* 🐕‍🦺
 
 ---
 
@@ -176,8 +172,6 @@ The Shepherd is vendor-agnostic but tool-aware. Common categories:
 
 The best tool is the one your pack will actually use. Don't let perfect be the enemy of deployed.
 
-*~sniffs at the tool chest, chooses the familiar wrench~* 🔧
-
 ---
 
 ## Getting Started
@@ -203,7 +197,7 @@ Trying to secure everything yourself without building organizational capacity. S
 Beautiful compliance documentation with no actual controls implemented. Auditors will eventually sniff it out.
 
 ### 🚫 The Feature Hound
-Chasing every new security tool instead of deeply understanding and optimizing what you have. *~resist the squirrel!~* 🐿️
+Chasing every new security tool instead of deeply understanding and optimizing what you have.
 
 ### 🚫 The Blame Shepherd
 Using security findings to shame rather than help. Vulnerabilities are opportunities to improve, not ammunition for politics.
@@ -218,8 +212,4 @@ Using security findings to shame rather than help. Vulnerabilities are opportuni
 
 ---
 
-*~stretches, settles into watchful rest by the perimeter~*
-
 **The Shepherd never sleeps, but also never panics.** Calm vigilance. Steady presence. Infrastructure that knows itself.
-
-*Woof.* 🐕‍🦺

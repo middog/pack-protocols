@@ -10,13 +10,11 @@ tags:
   - people
 ---
 
-# 🐕 Companion Operations
+# Companion Operations
 
 **Advisory with presence, not ego.**
 
-*~sitting close, warm and attentive, not demanding anything~* 🐾
-
-The Companion stays near without smothering. It helps the pack move together through change—not by dragging, not by pushing, but by being present, building trust, and helping people find their own footing on new ground.
+The Companion stays near without smothering. It helps the pack move together through change — not by dragging, not by pushing, but by being present, building trust, and helping people find their own footing on new ground.
 
 ---
 
@@ -61,8 +59,6 @@ The Companion head of your FIDO work has a particular character:
 
 **Non-anxious presence.** When the pack is stressed, the Companion doesn't add to the anxiety. Calm is contagious. Panic is too. Choose calm.
 
-*~lies down nearby, available but not intrusive~* 🐕
-
 ---
 
 ## The Companion's Rhythms
@@ -93,11 +89,9 @@ The Companion head of your FIDO work has a particular character:
 
 ---
 
-## The Belly Rub Principle 🐕
+## Creating Safety
 
-*~rolls over, showing vulnerability and trust~*
-
-The best Companion work happens when people feel safe enough to be vulnerable—to admit they're confused, frustrated, or scared about change.
+The best Companion work happens when people feel safe enough to be vulnerable — to admit they're confused, frustrated, or scared about change.
 
 **Creating safety:**
 - Listen more than you talk
@@ -117,29 +111,7 @@ The best Companion work happens when people feel safe enough to be vulnerable—
 
 ## Change Adoption Curve
 
-Not everyone adopts change at the same pace:
-
-```
-                    ┌─────────────────────────────────────────────┐
-                    │                                             │
-                    │              ADOPTION CURVE                 │
-                    │                                             │
-                    │                    ████                     │
-                    │                  ██    ██                   │
-                    │                ██        ██                 │
-                    │              ██            ██               │
-                    │            ██                ██             │
-                    │          ██                    ██           │
-                    │        ██                        ██         │
-                    │      ██                            ██       │
-                    │    ██                                ██     │
-                    │──██────────────────────────────────────██───│
-                    │                                             │
-                    │ Innovators │ Early │ Early  │ Late   │Laggard│
-                    │   2.5%     │Adopter│Majority│Majority│ 16%  │
-                    │            │ 13.5% │  34%   │  34%   │      │
-                    └─────────────────────────────────────────────┘
-```
+Not everyone adopts change at the same pace. Rogers' diffusion model: Innovators (2.5%) → Early Adopters (13.5%) → Early Majority (34%) → Late Majority (34%) → Laggards (16%).
 
 ### Working with Each Group
 
@@ -156,8 +128,6 @@ Not everyone adopts change at the same pace:
 ---
 
 ## Resistance Is Information
-
-*~perks ears at a growl~*
 
 When people resist change, they're telling you something. Resistance is data, not the enemy.
 
@@ -325,8 +295,4 @@ Making yourself indispensable instead of building capacity. Your success is thei
 
 ---
 
-*~settles in close, warm and steady~*
-
-**The Companion is the heart of transformation.** Technology doesn't change organizations—people do. The Companion helps them do it together, with care, at a sustainable pace.
-
-*Stay close.* 🐕💛
+**The Companion is the heart of transformation.** Technology doesn't change organizations — people do. The Companion helps them do it together, with care, at a sustainable pace.

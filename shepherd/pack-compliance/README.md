@@ -25,7 +25,6 @@ workflow_states:
 
 **NIST Frameworks & Security Hygiene**
 
-*~sitting at attention, documentation spread before the paws, ready for inspection~* 🐕
 
 Compliance isn't about checking boxes—it's about proving the work is done and done well. The Shepherd documents the territory, demonstrates the controls, and shows the receipts when the auditors come sniffing.
 
@@ -91,7 +90,6 @@ The CSF organizes security into six core functions:
 
 ### 🔎 GOVERN (New in 2.0)
 
-*~sitting at the center, overseeing the pack~*
 
 | Category | What It Covers |
 |----------|----------------|
@@ -104,7 +102,6 @@ The CSF organizes security into six core functions:
 
 ### 🔍 IDENTIFY
 
-*~nose to the ground, cataloging the territory~*
 
 | Category | What It Covers | Shepherd Domain |
 |----------|----------------|-----------------|
@@ -114,7 +111,6 @@ The CSF organizes security into six core functions:
 
 ### 🛡️ PROTECT
 
-*~circling the perimeter, checking the fences~*
 
 | Category | What It Covers | Shepherd Domain |
 |----------|----------------|-----------------|
@@ -126,7 +122,6 @@ The CSF organizes security into six core functions:
 
 ### 🔔 DETECT
 
-*~ears up, scanning for anomalies~*
 
 | Category | What It Covers | Shepherd Domain |
 |----------|----------------|-----------------|
@@ -135,7 +130,6 @@ The CSF organizes security into six core functions:
 
 ### 🚨 RESPOND
 
-*~springing into action~*
 
 | Category | What It Covers | Shepherd Domain |
 |----------|----------------|-----------------|
@@ -146,7 +140,6 @@ The CSF organizes security into six core functions:
 
 ### 🔄 RECOVER
 
-*~helping the pack back to its feet~*
 
 | Category | What It Covers | Shepherd Domain |
 |----------|----------------|-----------------|
@@ -226,7 +219,6 @@ If you're starting out, prioritize these:
 
 ### 1. Assess (Gap Analysis)
 
-*~walking the territory, noting what's missing~*
 
 **Objective:** Understand your current state against target framework.
 
@@ -240,7 +232,6 @@ If you're starting out, prioritize these:
 
 ### 2. Plan (POA&M)
 
-*~drawing the map for remediation~*
 
 **Objective:** Prioritize and schedule remediation.
 
@@ -264,7 +255,6 @@ If you're starting out, prioritize these:
 
 ### 3. Implement (Controls)
 
-*~building the fences and digging the dens~*
 
 **Objective:** Close the gaps.
 
@@ -277,7 +267,6 @@ If you're starting out, prioritize these:
 
 ### 4. Validate (Audit)
 
-*~demonstrating the work to the inspector~*
 
 **Objective:** Prove controls are working.
 
@@ -291,7 +280,6 @@ If you're starting out, prioritize these:
 
 ### 5. Monitor (Continuous)
 
-*~settling into watchful routine~*
 
 **Objective:** Maintain compliance over time.
 
@@ -362,7 +350,6 @@ Compliance is about evidence. Types of evidence Shepherds produce:
 
 ## Working with Auditors
 
-*~tail wagging but controlled, maintaining professional composure~*
 
 ### Before the Audit
 
@@ -433,7 +420,6 @@ Implementing good controls but not documenting. Can't prove what you can't show.
 
 ### Scenario: First-Time 800-171 Assessment
 
-*~approaching new territory with careful sniffs~*
 
 1. **Scope the boundary** — What systems handle CUI?
 2. **Quick baseline assessment** — Use NIST self-assessment tool
@@ -479,7 +465,6 @@ Implementing good controls but not documenting. Can't prove what you can't show.
 
 ---
 
-*~presents neatly organized documentation, tail wagging with professional pride~*
 
 **Compliance isn't bureaucracy—it's accountability.** The Shepherd documents the work so others can trust it, verify it, and build on it.
 

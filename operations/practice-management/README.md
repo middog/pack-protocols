@@ -13,7 +13,6 @@ tags:
 
 **Running the Day-to-Day**
 
-*~keeping the den tidy and the tools sharp~* 🐕
 
 Practice Management is the operational backbone: how you organize knowledge, standardize tools, manage capacity, and keep the business running smoothly.
 
@@ -207,7 +206,6 @@ Great work for clients, neglected business. Your practice is a client too.
 
 ---
 
-*~tidying the den, sharpening the tools~*
 
 **Practice management isn't glamorous, but it's what makes the glamorous work possible.** Take care of the business so the business can take care of you.
 

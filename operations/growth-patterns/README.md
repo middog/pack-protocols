@@ -13,7 +13,6 @@ tags:
 
 **Solo → Small Pack → Distributed Pack**
 
-*~from lone dog to pack leader~* 🐕→🐕🐕🐕
 
 Growth patterns help you decide if, when, and how to scale your consultancy. Not everyone should grow. But if you do, these patterns help you grow well.
 
@@ -216,7 +215,6 @@ The first hires set the culture. Choose wisely:
 
 ## The Non-Growth Path
 
-*~contentedly staying in your own territory~*
 
 **Staying solo deliberately is wise if:**
 - You have enough
@@ -278,7 +276,6 @@ Partnerships without clear agreements. Conflict guaranteed.
 
 ---
 
-*~surveying the growing pack with pride and responsibility~*
 
 **Growth is a choice, not an obligation.** Choose deliberately. Grow thoughtfully. Or stay happily where you are.
 

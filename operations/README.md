@@ -9,13 +9,11 @@ tags:
   - growth
 ---
 
-# ⚙️ Operations
+# Operations
 
 **Running Your Small Technology Consultancy**
 
-*~pacing the territory, keeping everything in order~* 🐕
-
-Operations is the business of running a business. How to find work, scope it, do it well, and grow without losing your soul. These protocols help you build a sustainable consultancy practice.
+Operations is the business of running a business — how to find work, scope it, do it well, and grow without losing your soul.
 
 ---
 
@@ -179,8 +177,4 @@ Healthy boundaries = sustainable practice.
 
 ---
 
-*~overseeing the territory with calm confidence~*
-
-**Operations is the unglamorous work that makes everything else possible.** The business side of the business. Get it right, and you can focus on the work you love.
-
-*Keep the den running.* ⚙️🐕
+**Operations is the unglamorous work that makes everything else possible.** Get it right, and you can focus on the work you love.

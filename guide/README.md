@@ -10,13 +10,11 @@ tags:
   - automation
 ---
 
-# 🦮 Guide Operations
+# Guide Operations
 
 **Release rituals and automations shaped for real flow.**
 
-*~confidently trotting ahead, finding the clear path through dense forest~* 🐾
-
-The Guide leads without dragging. It sees the obstacles before the pack hits them, finds the efficient route, and keeps everyone moving at a sustainable pace. From "heroic releases" to calm, predictable ship cycles—that's Guide work.
+The Guide leads without dragging. It sees the obstacles before the pack hits them, finds the efficient route, and keeps everyone moving at a sustainable pace. From heroic releases to calm, predictable ship cycles — that's Guide work.
 
 ---
 
@@ -59,8 +57,6 @@ The Guide head of your FIDO work has a particular character:
 
 **Focused on flow, not features.** The Guide doesn't care about fancy tooling—it cares about whether code ships reliably. A simple, working pipeline beats an impressive, flaky one every time.
 
-*~steady gait, head up, ears forward, reading the path~* 🦮
-
 ---
 
 ## The Guide's Rhythms
@@ -91,11 +87,9 @@ The Guide head of your FIDO work has a particular character:
 
 ---
 
-## The Heat Cycle: Sprint & Release Cadence 🔥
+## Release Cadence Patterns
 
-*~perks up with knowing grin~*
-
-Every delivery organization has its rhythms—its "heat cycles" where energy builds toward release. The Guide understands these natural patterns and works with them, not against them.
+Every delivery organization has its rhythms — where energy builds toward release. The Guide understands these natural patterns and works with them, not against them.
 
 ### Healthy Heat Patterns
 
@@ -235,7 +229,7 @@ New to Guide work? Start here:
 Building complex pipelines for simple problems. Start simple, add complexity only when needed.
 
 ### 🚫 The Flaky Path
-Tests that sometimes pass, sometimes fail. Nothing kills confidence like intermittent failures. *~growls at flaky tests~*
+Tests that sometimes pass, sometimes fail. Nothing kills confidence like intermittent failures.
 
 ### 🚫 The Hero Guide
 One person who knows all the pipelines. Bus factor of one. Document and distribute knowledge.
@@ -256,8 +250,4 @@ Optimizing for raw speed without considering quality. Fast garbage is still garb
 
 ---
 
-*~trots ahead confidently, tail high, marking the clear path~*
-
-**The Guide finds the way.** Not the flashiest route, not the most impressive technology—the route that actually gets the pack where it needs to go, reliably, sustainably.
-
-*Follow the trail.* 🦮
+**The Guide finds the way.** Not the flashiest route, not the most impressive technology — the route that actually gets the pack where it needs to go, reliably, sustainably.

@@ -14,7 +14,6 @@ tags:
 
 **High-Performance Computing & Resource Orchestration**
 
-*~coordinating the pack for a big hunt, every dog in position~* 🐕🐕🐕
 
 Sometimes you need more than a single dog can carry. Pack Compute is about orchestrating resources for heavy workloads—batch processing, data pipelines, ML training, rendering, simulation—jobs that need the whole pack working together.
 
@@ -49,7 +48,6 @@ Sometimes you need more than a single dog can carry. Pack Compute is about orche
 
 ### Pattern 1: Batch Processing
 
-*~pack divides the work, processes in parallel, reconvenes~*
 
 ```
 ┌─────────────┐     ┌─────────────────────────┐     ┌─────────────┐
@@ -75,7 +73,6 @@ Sometimes you need more than a single dog can carry. Pack Compute is about orche
 
 ### Pattern 2: Pipeline/DAG
 
-*~pack moves through stages, each stage depends on previous~*
 
 ```
 ┌─────┐     ┌─────┐     ┌─────┐     ┌─────┐
@@ -103,7 +100,6 @@ Sometimes you need more than a single dog can carry. Pack Compute is about orche
 
 ### Pattern 3: Map-Reduce
 
-*~scatter to hunt, gather to share~*
 
 ```
          MAP                    REDUCE
@@ -129,7 +125,6 @@ Sometimes you need more than a single dog can carry. Pack Compute is about orche
 
 ### Pattern 4: GPU/Specialized Compute
 
-*~bringing in the specialists~*
 
 ```
 ┌─────────────────────────────────────────┐
@@ -244,7 +239,6 @@ Sometimes you need more than a single dog can carry. Pack Compute is about orche
 
 ### Queue Management
 
-*~maintaining order at the food bowl~* 🐕
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -312,7 +306,6 @@ Sometimes you need more than a single dog can carry. Pack Compute is about orche
 
 ### Designing for Failure
 
-*~the pack continues even if one dog stumbles~*
 
 **Retry Strategies:**
 - Immediate retry for transient failures
@@ -362,7 +355,6 @@ Jobs running with no visibility. You'll only know it's broken when users complai
 
 ---
 
-*~the pack finishes the hunt, resting together after good work~*
 
 **Pack Compute is coordination.** The right dogs on the right tasks, working together efficiently. Not brute force—intelligent orchestration.
 

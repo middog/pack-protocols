@@ -20,7 +20,6 @@ workflow_states:
 
 **CI/CD Pipelines & Release Rituals**
 
-*~nose down, following the scent of good code toward production~* 🦮
 
 Trail Blazing is about creating clear, reliable paths from commit to production. No more heroic deployments. No more "works on my machine." Just code flowing smoothly to where it needs to go.
 
@@ -40,19 +39,18 @@ Where is your pack on the trail?
 
 ```
 Level 0: MANUAL           "We deploy by hand"
-    │    ~whimpers~
+    │
     ▼
 Level 1: SCRIPTED         "We have deploy scripts"
-    │    ~tail wag~
+    │
     ▼
 Level 2: AUTOMATED        "CI runs tests automatically"
-    │    ~happy panting~
+    │
     ▼
 Level 3: CONTINUOUS       "Every merge deploys"
-    │    ~zoomies!~
+    │
     ▼
 Level 4: OPTIMIZED        "We ship multiple times daily, safely"
-         ~content rest~
 ```
 
 ### Level Assessment
@@ -217,7 +215,6 @@ DEV  →  STAGING  →  PRODUCTION
 
 ## GitOps: Git as Source of Truth
 
-*~contentedly guarding the repo~* 🐕
 
 GitOps treats Git as the single source of truth for both code and infrastructure.
 
@@ -252,7 +249,6 @@ GitOps treats Git as the single source of truth for both code and infrastructure
 
 ### Trunk-Based Development (Recommended)
 
-*~runs directly toward the goal~*
 
 ```
 main ────●────●────●────●────●────●────▶
@@ -284,7 +280,6 @@ main ────●────────●────────●──
 
 ### GitFlow (Use with caution)
 
-*~tilts head skeptically~*
 
 ```
 main     ────●───────────────●───────────▶
@@ -339,7 +334,6 @@ Every minute waiting for builds is a minute of lost flow. Optimize ruthlessly.
 
 ### Shift Left Security
 
-*~sniffs suspiciously at every commit~*
 
 Catch security issues early, when they're cheap to fix.
 
@@ -405,7 +399,7 @@ Requiring human approval for every deploy. Automation means trusting automation.
 "Let's see if this works in prod." Environments should match.
 
 ### 🚫 The Friday Deploy
-*~puts paw down firmly~* Don't deploy before weekends unless you want weekend incidents.
+Don't deploy before weekends unless you want weekend incidents.
 
 ---
 
@@ -426,7 +420,6 @@ Requiring human approval for every deploy. Automation means trusting automation.
 
 ---
 
-*~sits at the end of a well-blazed trail, satisfied~*
 
 **The trail is clear.** Code flows from commit to production smoothly, safely, and sustainably. No heroes required.
 

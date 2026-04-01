@@ -26,7 +26,6 @@ workflow_states:
 
 **Workstation & Server Hardening**
 
-*~inspecting the den entrance, checking the bedding, sniffing for intruders~* 🐕
 
 Every workstation is a den. Every server is a den. The Shepherd ensures each one is properly secured—not a fortress of paranoia, but a healthy home where work can happen safely.
 
@@ -65,7 +64,7 @@ Finding the sweet spot requires knowing your pack:
 - What risks are you actually protecting against?
 - What compensating controls exist?
 
-*~sniffs thoughtfully~* Don't lock the den so tight the pack can't get in and out.
+Don't lock the den so tight the pack can't get in and out.
 
 ---
 
@@ -313,7 +312,7 @@ Sometimes you need to leave a door open. Document it:
 6. Regular review
 7. Closure or renewal
 
-*~cocks head~* No permanent exceptions. Everything gets reviewed.
+No permanent exceptions. Everything gets reviewed.
 
 ---
 
@@ -393,7 +392,6 @@ So many exceptions that your baseline is meaningless. If everything's an excepti
 
 ---
 
-*~circles three times, settles into the den~*
 
 **A well-secured den is a comfortable den.** Your pack sleeps better knowing the Shepherd has checked the locks.
 

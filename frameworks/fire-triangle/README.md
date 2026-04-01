@@ -1,8 +1,8 @@
-# 🔥 Fire Triangle
+# Fire Triangle
 
 **Fuel + Oxygen + Heat → Fire**
 
-A framework for understanding why momentum happens—or doesn't.
+A framework for diagnosing why momentum happens — or doesn't.
 
 ---
 
@@ -114,35 +114,16 @@ When something isn't working, ask:
 
 ---
 
-## Application Patterns
+## Application Pattern
 
-### For Consulting (FIDO)
-Map client's current state:
-1. What fuel do they have? (infra, tools, capital)
-2. What oxygen do they have? (process, info flow)
-3. What heat do they have? (team energy, stakeholder buy-in)
-4. Where's the gap?
+Before proposing anything, map the current state:
 
-### For Community Projects (CoLab)
-Before proposing:
-1. **Fuel:** What space/materials/tools do I need?
-2. **Oxygen:** What coordination/permissions/info do I need?
-3. **Heat:** Who's actually going to show up and do this?
+1. **Fuel:** What does this organization actually have — infrastructure, tools, capital?
+2. **Oxygen:** What's enabling or blocking flow — process, coordination, information?
+3. **Heat:** Where's the energy — who cares, who shows up, who has stake?
+4. **Gap:** Which element is thin? Work that element.
 
----
-
-## The "Yes... And!" Principle
-
-When someone brings an idea that doesn't fit your role:
-
-**Don't say:** "No, we can't do that."
-
-**Say:** "Yes, this is great, AND... here's what you'd need to make it happen."
-
-Then help them find:
-- The **fuel** (who has resources)
-- The **oxygen** (who can enable)
-- The **heat** (who will participate)
+See also: [Yes, And](../../docs/PHILOSOPHY.md#yes-and) — how to help people find what they need without owning it yourself.
 
 ---
 
@@ -173,4 +154,4 @@ One person providing all three elements.
 
 ---
 
-*"Let's make fire."* 🔥
+*"Let's make fire."*

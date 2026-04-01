@@ -14,13 +14,11 @@ workflow_states:
   - parting
 ---
 
-# 🤝 Engagement Lifecycle
+# Engagement Lifecycle
 
 **From Sniff to Parting**
 
-*~approaching a new friend with curiosity and care~* 🐕
-
-The engagement lifecycle is the natural rhythm of client relationships: discovering each other, committing to work together, doing the work, and parting well when it's time.
+The natural rhythm of client relationships: discovering each other, committing to work together, doing the work, and parting well when it's time.
 
 ---
 
@@ -218,8 +216,4 @@ Creating dependency. Your success is their independence.
 
 ---
 
-*~completing the dance of a good relationship~*
-
 **Every engagement is a relationship.** Treat it with the care you'd give any relationship worth having.
-
-*Part as friends.* 🤝🐕

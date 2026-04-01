@@ -25,7 +25,6 @@ workflow_states:
 
 **Monitoring, Visibility & Alerting**
 
-*~ears rotating like radar dishes, eyes scanning the treeline~* 🐕
 
 The Shepherd watches. Not paranoid, not obsessive—attentive. Knowing what's normal so you can spot what isn't. Territory Watch is how you keep your eyes on the whole pack.
 
@@ -140,7 +139,6 @@ Not all alerts are equal. Prioritize:
 | **Low** | Next business day | Audit findings, compliance drift, informational events |
 | **Informational** | As capacity allows | Baseline events, telemetry, trending data |
 
-*~perks ears for critical, flicks ear for informational~* 🐕
 
 ---
 
@@ -393,7 +391,6 @@ Alerts catch known-bad patterns. Hunting finds unknown-bad.
 
 Good Shepherds do both: automated alerting for known threats, regular hunting for what automated tools miss.
 
-*~nose working, following a faint trail~* 🐕
 
 ---
 
@@ -405,7 +402,6 @@ Good Shepherds do both: automated alerting for known threats, regular hunting fo
 
 ---
 
-*~settles into watchful rest, one eye always half-open~*
 
 **The Territory never sleeps, but the Shepherd knows how to rest without losing awareness.** Alert but not anxious. Watching but not exhausting.
 

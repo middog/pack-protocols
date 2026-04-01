@@ -19,7 +19,6 @@ workflow_states:
 
 **Technology Adoption Workflows**
 
-*~teaching new tricks with patience and treats~* 🐕🦴
 
 Pack Adoption is the structured approach to getting people to actually use new technology. Not just deployed—adopted. Not just trained—proficient. Not just announced—integrated into daily work.
 
@@ -37,7 +36,6 @@ The best technology in the world is worthless if people don't use it—or use it
 
 ## The Introduce → Parallel → Transition Methodology
 
-*~walking alongside, then gradually letting go~*
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -155,7 +153,6 @@ The best technology in the world is worthless if people don't use it—or use it
 
 ### The Champions Program 🏆
 
-*~training the alpha dogs to lead the pack~*
 
 **Champion role:**
 - First to learn new tools
@@ -203,7 +200,6 @@ The best technology in the world is worthless if people don't use it—or use it
 ## Rollout Strategies
 
 ### Big Bang
-*~everyone jumps in the lake at once~*
 
 - Everyone switches on the same day
 - Simple coordination
@@ -213,7 +209,6 @@ The best technology in the world is worthless if people don't use it—or use it
 **Use when:** Simple changes, small orgs, urgent timeline
 
 ### Phased by Group
-*~one team at a time~*
 
 - Rollout by department, team, or location
 - Learn and adjust between phases
@@ -223,7 +218,6 @@ The best technology in the world is worthless if people don't use it—or use it
 **Use when:** Complex changes, larger orgs, cautious approach
 
 ### Feature-Based
-*~one capability at a time~*
 
 - Enable features incrementally
 - Users adjust gradually
@@ -305,7 +299,6 @@ Tracking numbers without understanding stories. Talk to actual users.
 
 ---
 
-*~walking alongside, matching pace, ready to help when needed~*
 
 **Adoption is a journey, not an event.** The Companion walks with the pack through the whole trail, not just the trailhead.
 
