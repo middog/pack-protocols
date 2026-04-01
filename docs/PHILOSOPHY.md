@@ -68,6 +68,18 @@ Then help them find the fuel (who has resources), the oxygen (who can enable it)
 
 ---
 
+## On Alignment
+
+Traditional consulting incentives are not aligned with the client. A practice that bills by the hour benefits from complexity. A firm that owns the methodology benefits from dependency. The engagement ends; the client can't operate what was built without calling you back. Everyone behaved professionally. Nothing transformed.
+
+long.tail is built against this — not as a differentiator, but as a condition of engagement.
+
+Mutual transformation starts at day zero, before and even without a contract. Discovery is not a diagnostic formality that permits us to apply what we already planned to apply. It is generative — designed to provoke novel thought in both directions. If neither party has been surprised by the end of the first conversation, we didn't do discovery.
+
+mid.dog's open-source work is the entry point into that posture. Not a marketing asset. The actual practice, given away — because the value was never in the methodology. It's in working the problem together.
+
+---
+
 ## Why Open Source
 
 > *"We are what, and how, we eat. Our knowledge apparatus is how we tell our story, to ourselves, as we live it. We mustn't outsource our Story."*
